@@ -1,0 +1,32 @@
+body{
+}
+
+h2{
+    font-size: 50px;
+    text-align: center;
+}
+
+fieldset{
+    border: solid 5px gray;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+legend{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+label{
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+input{
+    padding: 8px;
+    padding-left: 100px;
+}
